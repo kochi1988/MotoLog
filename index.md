@@ -18,8 +18,8 @@ MotoLog to aplikacja na Androida do prowadzenia historii Twojego motocykla.
 
 ## Dokumenty
 
-* [Polityka prywatności](privacy-policy.html)
-* [Usuwanie danych](data-deletion.html)
+* [Polityka prywatności](https://kochi1988.github.io/MotoLog/README.html)
+* [Usuwanie danych](https://kochi1988.github.io/MotoLog/data-deletion.html)
 
 ## Kontakt
 
